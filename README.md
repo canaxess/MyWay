@@ -1,4 +1,4 @@
-# MyWay-
+# MyWay+
 WCAG failures for the MyWay+ digital ticketing platform
 Using our stanrd reporting methodology
 
