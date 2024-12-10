@@ -2,7 +2,7 @@
 WCAG failures for the MyWay+ digital ticketing platform
 Using our standard reporting methodology
 
-## Login - [https://www.mywayplus.transport.act.gov.au/login](https://www.mywayplus.transport.act.gov.au/login)
+## Login - [https://www.mywayplus.transport.act.gov.au/login](https://www.mywayplus.transport.act.gov.au/login) n/a
 | Issue  | WCAG Criterion  | WCAG Level  | Severity  |
 |:---|:---|:---:|---|
 | Unlabelled terms of service checkbox  | [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)  | A  | High  |
