@@ -1,5 +1,6 @@
 # MyWay+
 WCAG failures for the MyWay+ digital ticketing platform
+
 All WCAG testing follows the WCAG-EM audit methodology testing. Issues are categorised by the severity level to describe likely user impact
 
 * **Severity 4 Low** - Unlikely to prevent anyone from accessing content but could be a minor problem.
