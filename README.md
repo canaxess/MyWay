@@ -8,7 +8,7 @@ All WCAG testing follows the WCAG-EM audit methodology testing. Issues are categ
 * **Severity 2 High** - This will present significant access issues, but workarounds are available
 * **Severity 1 Critical** - Will prevent the flow from being completed. Requires third-party assistance as there is no path to work around the issue.
 
-## Login - [https://www.mywayplus.transport.act.gov.au/login](https://www.mywayplus.transport.act.gov.au/login) n/a
+## Login - [https://www.mywayplus.transport.act.gov.au/login](https://www.mywayplus.transport.act.gov.au/login)
 | Issue  | WCAG Criterion  | WCAG Level  | Severity  |
 |:---|:---|:---:|---|
 | Poor colour contrast on Quick Top Up and Buy a QR Ticket  | [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)  | AA  | High  |
