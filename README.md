@@ -18,7 +18,9 @@ All WCAG testing follows the WCAG-EM audit methodology testing. Issues are categ
 ## Sign Up - [https://www.mywayplus.transport.act.gov.au/signup](https://www.mywayplus.transport.act.gov.au/signup)
 | Issue  | WCAG Criterion  | WCAG Level  | Severity  |
 |:---|:---|:---:|---|
+| "First Name", "Last Name", "Password", "Confirm New Password", "Email", "Mobile No.", "Enter Mobile Number" are unlabelled controls | [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)  | A  | High  |
 | Unlabelled "terms of service" checkbox  | [1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)  | A  | High  |
+| Password error messages unconnected to "Password" control  | [3.3.3 Error Suggestion](https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion.html)  | A  | High  |
 | No focus indicator on "terms of service" checkbox  | [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html)  | AA  | High  |
 | Poor colour contrast on all form elements `placeholder` text  | [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)  | AA  | High  |
 | Colour only focus indicator on "Mobile No." control  | [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html)  | A  | Medium  |
